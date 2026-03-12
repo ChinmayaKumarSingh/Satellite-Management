@@ -26,6 +26,11 @@ DELETE /satellites/{id}
 ## Example Request
 
 {
+## 📸 API Testing
+
+### Get Satellites API
+
+![Get Satellites](screenshots/api-get-satellites.png)
  "name": "Hubble",
  "mission": "Space Telescope",
  "launchDate": "1990",
