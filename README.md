@@ -36,3 +36,8 @@ DELETE /satellites/{id}
  "launchDate": "1990",
  "orbitType": "Low Earth Orbit"
 }
+## 📬 Postman Collection
+
+You can test APIs using the Postman collection below.
+
+[Download Postman Collection](postman/satellite-api.postman_collection.json)
