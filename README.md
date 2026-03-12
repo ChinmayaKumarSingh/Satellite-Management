@@ -1,4 +1,4 @@
-![Satellite Management System](assets/project-banner.png.jpg)
+![Satellite Management System](project-banner.png.jpg)
 # Satellite Management System
 
 A Spring Boot backend project for managing satellites and missions.
