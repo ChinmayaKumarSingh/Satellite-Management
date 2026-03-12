@@ -1,0 +1,26 @@
+{
+ "info": {
+  "name": "Satellite Management API",
+  "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+ },
+ "item": [
+  {
+   "name": "Get Satellites",
+   "request": {
+    "method": "GET",
+    "url": {
+     "raw": "http://localhost:8080/satellites"
+    }
+   }
+  },
+  {
+   "name": "Add Satellite",
+   "request": {
+    "method": "POST",
+    "url": {
+     "raw": "http://localhost:8080/satellites"
+    }
+   }
+  }
+ ]
+}
